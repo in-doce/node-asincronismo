@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Practicas para el asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node ./src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/in-doce/node-asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sebastian Kremarik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/in-doce/node-asincronismo/issues"
+  },
+  "homepage": "https://github.com/in-doce/node-asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
